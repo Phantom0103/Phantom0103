@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Phantom0103 (:
-- 👀 I’m interested in ^-^ ):
-- 🌱 I’m currently learning ^_^ (:
-- 💞️ I’m looking to collaborate on ^_^ &%^#$...
+- 👀 I’m interested in WoW & SwiftUI ...$$$... ^-^ ):
+- 🌱 I’m currently learning SwiftUI (:
+- 💞️ I’m looking to collaborate on SwiftUI ^_^ &%^#$...
 - 📫 How to reach me ^_^ ):
 
 <!---
